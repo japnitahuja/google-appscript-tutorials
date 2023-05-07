@@ -6,14 +6,15 @@ Welcome to this tutorial on Google Apps Script! This repository contains code ex
 
 To get started with Google Sheets Apps Script, you'll need a Google account and access to Google Sheets. Follow these steps to create a new script:
 
-- Open a Google Sheet.
-- Click on the "Extensions" menu and select "Appscript".
+- Open a Google Sheet
+- Click on the "Extensions" menu and select "Appscript"
+- Create your own new script
 
 Now you're ready to start writing code! You can write and run code directly in the script editor, which includes a code editor, debugger, and other helpful tools.
 
 ## Examples
 
-All examples contain both the .csv and the .gs files. First, import the .csv into the sheet. Then to try out these examples, simply open the .gs file for the example you are interested in and copy the code into a new script file in your own Apps Script project.
+All examples contain both the `.csv` and the `.gs` files. First, import the `.csv` into the sheet. Then to try out these examples, simply open the `.gs` file for the example you are interested in and copy the code into a new script file in your own Apps Script project.
 
 ## Contributing
 
